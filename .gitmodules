@@ -1,0 +1,3 @@
+[submodule "Components/Electronics_Companies_In_Egypt"]
+	path = Components/Electronics_Companies_In_Egypt
+	url = git@github.com:omarKmekkawy/Electronics_Companies_In_Egypt.git
