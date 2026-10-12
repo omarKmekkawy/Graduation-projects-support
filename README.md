@@ -2,7 +2,7 @@
 My collection of advice for students in the graduation projects stage
 
 ## Electronics Stores In Egypt
-* [Electronics Stores In Egypt](https://github.com/omarKmekkawy/Electronics_Companies_In_Egypt/blob/7bf04ae/README.md) or you can access it locally here [Electronics Stores In Egypt](Components/Electronics_Companies_In_Egypt/)
+* [Electronics Stores In Egypt](https://github.com/omarKmekkawy/Electronics_Companies_In_Egypt/blob/7bf04ae/README.md) or you can access it locally here [Electronics Stores In Egypt](Components/)
 
 ## RaspberryPi
 * [My advices regarding the RaspberryPi](RaspberryPi/RaspberryPi.md)
